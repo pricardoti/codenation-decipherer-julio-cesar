@@ -9,12 +9,6 @@
 
 > Projeto feito usando NodeJS, sem frontend. Portanto, toda a interação com o usuário é via terminal.
 
----
-
-#### Ah, se curtiu, não esquece de deixar a :star:
-
----
-
 # Criptografia de Júlio César
 
 ##### Fonte: <https://www.codenation.dev/acceleration/reactnative-online-1/challenge/dev-ps>
@@ -95,3 +89,9 @@ por minuto.
 **OBS:** Neste estágio da aceleração não solicitamos que você nos envie o código
 do programa que você criou, mas recomendamos que você guarde uma cópia pois o mesmo
 pode ser solicitado nas próximas fases do processo.
+
+---
+
+#### Aaaah, se curtiu, não esquece de deixar a :star:
+
+---
