@@ -57,7 +57,7 @@ HTTP para a url abaixo:
 Para encontrar o seu token , acesse a plataforma Codenation, faça o login e a informação
 estará na tela, conforme no exemplo abaixo:
 
-<!-- ![Obter token](https://s3-us-west-1.amazonaws.com/codenation-cli/doc/images/token.png) -->
+![Obter token](https://github.com/pricardoti/codenation-decipherer-julio-cesar/blob/master/img01.png)
 
 O resultado da requisição vai ser um JSON conforme o exemplo:
 
